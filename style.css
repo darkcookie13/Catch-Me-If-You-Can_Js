@@ -1,0 +1,21 @@
+body
+{
+    margin:0px;
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 43px;
+}
+#box
+{
+    position:absolute;
+    height:20vh;
+    width:20vh;
+    background-color: rgb(41, 180, 173);
+    font-size:2vh;
+    padding:5px;
+    text-align:center;
+    border-radius: 50%;
+}
